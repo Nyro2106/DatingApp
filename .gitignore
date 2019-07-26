@@ -1,0 +1,5 @@
+# .net
+.vscode
+bin
+obj
+*.db
